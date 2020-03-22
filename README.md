@@ -48,10 +48,8 @@ Make sure you check the [open issues](https://github.com/Druhin13/breakthru./iss
 
 ### Licence
 
-All code in this repository is under the Apache Software Foundation License, 2.0.
+All code in this repository is licensed under the MIT License.
 
-
-<br>
 <br>
 <br>
 <br>
