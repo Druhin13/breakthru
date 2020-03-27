@@ -50,8 +50,6 @@ All code in this repository is licensed under the MIT License.
 
 <br>
 <br>
-<br>
-
 
 ## Contributor Covenant Code of Conduct
 
