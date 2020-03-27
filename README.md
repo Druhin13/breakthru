@@ -4,7 +4,6 @@
 
 Thanks for your interest in helping breakthru.
 
-
 ### Getting Started
 
 breakthru.'s [open issues are here](https://github.com/Druhin13/breakthru./issues)
@@ -13,7 +12,6 @@ An easy way to get started helping the project is to *create an issue*.
 You can do that on the breakthru.'s issues page by clicking on the green button at the right.
 
 Issues can include bugs to fix, features to add, or documentation that looks outdated. 
-
 
 ### Contributions
 
